@@ -1,2 +1,2 @@
 # Ocean_Quest
-A natural cultivation education game focused on ocean lives.
+A natural sustainability education game focused on ocean lives.
